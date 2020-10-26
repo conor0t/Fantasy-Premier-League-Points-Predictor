@@ -1,0 +1,10 @@
+FANTASY PREMIER LEAGUE POINTS PREDICTOR
+
+This is a simple model intended to predict a given gameweeks points for each player in the Premier League. 
+
+The points are based off of probabilities set by bookmaker odds in markets such as Anytime Goalscorer and Cleansheets, which are then multiplied out by each positions points for each score. 
+(i.e. 5 points for a goal from a midfielder multiplied by 2.0 odds to score anytime (0.5 probability) = 2.5 points)
+
+There are of course many issues with predicting points this way but this is meant as more of a guideline and an experiemtn above anything else.
+
+I do not own any of the data used.
